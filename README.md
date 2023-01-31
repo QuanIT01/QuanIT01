@@ -70,14 +70,7 @@ target="\_blank"><img
     height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
 /></a>
-<a href="https://material-ui.com/" target="_blank">
-  <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg"
-    align="left"
-    alt="material-ui"
-    height="42px"
-  />
-</a>
+
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
