@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <br />
 
 <h1 align="center">Hi  <a href="https://git-scm.com/" target="_blank">
