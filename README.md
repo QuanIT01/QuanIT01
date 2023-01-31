@@ -1,24 +1,13 @@
-<br />
+### Hi there 👋
 
-<h1 align="center">Hi  <a href="https://git-scm.com/" target="_blank">
-    <img
-      src="https://img.icons8.com/color/344/pinguin.png"
-      alt="git"
-      width="36"
-      height="36"
-    />
-  </a> , I'm Nguyen Hong Quan <img  width="35px" height="35px"  src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
+<div style="text-align: center">
+  <h2> <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> My name is <b>Nguyễn Hồng Quân</b>  <img src="https://camo.githubusercontent.com/fb070d9f71a64edbafed08519130d75e7e0a0a69665d50d94ad095157f702e59/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966" width="50" height="50"</img>
+  </h2>
+</div>
 
-<h3 align="center">A thirdth-year student at HAUI 🏫</h3>
-
-- 🔭 I’m currently working on [HAUI](https://www.haui.edu.vn/en) with IT major 🦈
-
-- 🌱 Want to learn many new things from other people 🚀
-
-- ⚡ Fun fact **, coding, reading book, listening to music,...**
+<p>- 🌱 A thirdth-year student at HAUI 🏫<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50" height="50"></img></p>
+<p>- 🌱 Want to learn many new things from other people <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="40" height="40"> </img></p>
 <p>- 📫 You can contact me at: 0328649781 || n.h.quan126@gmail.com || <a href="https://www.facebook.com/profile.php?id=100041390780970">My facebook</a><img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
-
-<br />
 
 ### Top languages:
 
