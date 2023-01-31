@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+<br />
+
+<h1 align="center">Hi  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://img.icons8.com/color/344/pinguin.png"
+      alt="git"
+      width="36"
+      height="36"
+    />
+  </a> , I'm Nguyen Hong Quan <img  width="35px" height="35px"  src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"></h1>
+
+<h3 align="center">A thirdth-year student at HAUI 🏫</h3>
+
+- 🔭 I’m currently working on [HAUI](https://www.haui.edu.vn/en) with IT major 🦈
+
+- 🌱 Want to learn many new things from other people 🚀
+
+- ⚡ Fun fact **, coding, reading book, listening to music,...**
+
+<br />
+
 ### Top languages:
 
 <div>
