@@ -86,13 +86,7 @@ target="\_blank"><img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"
 />
 </a>
-<a href="http://expressjs.com/" target="\_blank"><img
-align="left"
-alt="express"
-height="42px"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
 
-/></a>
 <a
 href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15"
 target="\_blank"> <img
@@ -106,7 +100,7 @@ height="42px"
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
     align="left"
-    alt="mongodb"
+    alt="mongdb"
     height="42px"
   />
 </a>
