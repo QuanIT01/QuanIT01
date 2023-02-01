@@ -25,6 +25,7 @@
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
     alt="git"
     height="42px"
+    align="left"
   />
 </a>
 <a href="https://devdocs.io/html/" target="_blank">
@@ -77,7 +78,7 @@ target="\_blank"><img
 <img
     align="left"
     alt="redux"
-    height="25px"
+    height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
 /></a>
 <a href="https://nodejs.org" target="\_blank"
