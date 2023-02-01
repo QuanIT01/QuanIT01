@@ -66,7 +66,6 @@ target="\_blank"><img
     height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"
 /></a>
-
 <a href="https://reactjs.org/" target="_blank">
 <img
     align="left"
@@ -81,7 +80,6 @@ target="\_blank"><img
     height="25px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
 /></a>
-
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
@@ -90,16 +88,6 @@ target="\_blank"><img
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"
 />
 </a>
-
-<a href="https://nodejs.org" target="\_blank"
-> <img
-    align="left"
-    alt="express"
-    height="42px"
-    src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF"
-/>
-</a>
-
 <a
 href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15"
 target="\_blank"> <img
@@ -109,7 +97,6 @@ alt="sql-server"
 height="42px"
 />
 </a>
-
 <a href="https://www.mongodb.com/" target="_blank">
 <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
@@ -118,7 +105,6 @@ height="42px"
     height="42px"
   />
 </a>
-
 <a href="https://www.docker.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg"
