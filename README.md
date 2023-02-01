@@ -22,25 +22,25 @@
 
 <a href="https://git-scm.com/" target="_blank">
   <img
-    src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" align="left"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"
     alt="git"
-    height="25px"
+    height="42px"
   />
 </a>
 <a href="https://devdocs.io/html/" target="_blank">
   <img
-    src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"
     align="left"
     alt="html"
-    height="25px"
+    height="42px"
   />
 </a>
 <a href="https://devdocs.io/css/" target="_blank">
   <img
-    src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"
     align="left"
     alt="css"
-    height="25px"
+     height="42px"
   />
 </a>
 <a
@@ -48,67 +48,46 @@ href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 target="\_blank"><img
     align="left"
     alt="JavaScript"
-    height="25px"
-    src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
+    height="42px"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"
 />
 </a>
-
 <a href="https://sass-lang.com/install" target="_blank">
   <img
-    src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/sass/sass.svg"
     align="left"
     alt="sass"
-    height="25px"
+    height="42px"
   />
 </a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC"
-    align="left"
-    alt="tailwind"
-    height="25px"
-  />
-</a>
-
- <a href="https://firebase.google.com/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCGMawguITMm1NksYTNtYNNpYCugoZLgrdofZ6-DcqckG6wP4exDI8aAn7NEALw_wcB&gclsrc=aw.ds" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"
-    align="left"
-    alt="firebase"
-    height="25px"
-  />
-</a>
-
 <a href="https://www.typescriptlang.org/" target="\_blank"><img
     align="left"
     alt="Typescirpt"
-    height="25px"
-    src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6"
+    height="42px"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"
 /></a>
 
 <a href="https://reactjs.org/" target="_blank">
 <img
     align="left"
     alt="React"
-    height="25px"
-    src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB"
+    height="42px"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"
 /></a>
-
 <a href="https://redux.js.org/" target="_blank">
 <img
     align="left"
     alt="redux"
     height="25px"
-    src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
 /></a>
 
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
     alt="Nodejs"
-    height="25px"
-    src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200"
+    height="42px"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"
 />
 </a>
 
@@ -116,7 +95,7 @@ target="\_blank"><img
 > <img
     align="left"
     alt="express"
-    height="25px"
+    height="42px"
     src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF"
 />
 </a>
@@ -133,10 +112,10 @@ height="42px"
 
 <a href="https://www.mongodb.com/" target="_blank">
 <img
-    src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
     align="left"
     alt="mongdb"
-    height="25px"
+    height="42px"
   />
 </a>
 
@@ -150,7 +129,7 @@ height="42px"
 </a>
 <a href="https://postman.com/" target="_blank">
   <img
-    src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
     align="left"
     alt="postman"
     height="42px"
