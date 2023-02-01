@@ -81,6 +81,13 @@ target="\_blank"><img
     height="42px"
     src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
 /></a>
+<a href="https://firebase.google.com/" target="_blank">
+<img
+    align="left"
+    alt="redux"
+    height="42px"
+    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"
+/></a>
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
