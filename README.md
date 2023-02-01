@@ -126,7 +126,7 @@ height="42px"
     src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248"
     align="left"
     alt="mongdb"
-    height="42px"
+    height="25px"
   />
 </a>
 <a href="https://www.docker.com/" target="_blank">
