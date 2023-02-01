@@ -48,7 +48,7 @@ href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 target="\_blank"><img
     align="left"
     alt="JavaScript"
-    height="42px"
+    height="25px"
     src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
 />
 </a>
