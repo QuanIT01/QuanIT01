@@ -17,8 +17,6 @@
   </a>
 </div>
 
-<hr/>
-<br/>
 
 ### 🔨 Languages and Tools:
 
@@ -31,18 +29,18 @@
 </a>
 <a href="https://devdocs.io/html/" target="_blank">
   <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg"
+    src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26"
     align="left"
     alt="html"
-    height="42px"
+    height="25px"
   />
 </a>
 <a href="https://devdocs.io/css/" target="_blank">
   <img
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg"
+    src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6"
     align="left"
     alt="css"
-    height="42px"
+    height="25px"
   />
 </a>
 <a
@@ -51,15 +49,15 @@ target="\_blank"><img
     align="left"
     alt="JavaScript"
     height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"
+    src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
 />
 </a>
 <a href="https://sass-lang.com/install" target="_blank">
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+    src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699"
     align="left"
     alt="sass"
-    height="42px"
+    height="25px"
   />
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
@@ -67,8 +65,7 @@ target="\_blank"><img
     src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC"
     align="left"
     alt="tailwind"
-    height="42px"
-    width="42px
+    height="25px"
   />
 </a>
  <a href="https://firebase.google.com/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCGMawguITMm1NksYTNtYNNpYCugoZLgrdofZ6-DcqckG6wP4exDI8aAn7NEALw_wcB&gclsrc=aw.ds" target="_blank">
@@ -76,39 +73,45 @@ target="\_blank"><img
     src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"
     align="left"
     alt="firebase"
-    height="42px"
-    width="42px
+    height="25px"
   />
 </a>          
 <a href="https://www.typescriptlang.org/" target="\_blank"><img
     align="left"
     alt="Typescirpt"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"
+    height="25px"
+    src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6"
 /></a>
 <a href="https://reactjs.org/" target="_blank">
 <img
     align="left"
     alt="React"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"
+    height="25px"
+    src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB"
 /></a>
 <a href="https://redux.js.org/" target="_blank">
 <img
     align="left"
     alt="redux"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/redux/redux.svg"
+    height="25px"
+    src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC"
 /></a>
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
     alt="Nodejs"
-    height="42px"
-    src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"
+    height="25px"
+    src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200"
 />
 </a>
-
+<a href="https://nodejs.org" target="\_blank"
+> <img
+    align="left"
+    alt="express"
+    height="25px"
+    src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF"
+/>
+</a>
 <a
 href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15"
 target="\_blank"> <img
@@ -120,7 +123,7 @@ height="42px"
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
 <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+    src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248"
     align="left"
     alt="mongdb"
     height="42px"
