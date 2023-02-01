@@ -10,7 +10,7 @@
 <p>- 📫 You can contact me at: 0328649781 || n.h.quan126@gmail.com || <a href="https://www.facebook.com/profile.php?id=100041390780970">My facebook</a><img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
 
 <hr/>
-
+<br/>
 ### Top languages:
 
 <div>
@@ -18,6 +18,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanIT01&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true" />
   </a>
 </div>
+
+<hr/>
+<br/>
 
 ### 🔨 Languages and Tools:
 
@@ -67,7 +70,7 @@ target="\_blank"><img
     align="left"
     alt="tailwind"
     height="42px"
-    width="62px
+    width="42px
   />
 </a>
  <a href="https://firebase.google.com/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCGMawguITMm1NksYTNtYNNpYCugoZLgrdofZ6-DcqckG6wP4exDI8aAn7NEALw_wcB&gclsrc=aw.ds" target="_blank">
@@ -76,7 +79,7 @@ target="\_blank"><img
     align="left"
     alt="firebase"
     height="42px"
-    width="62px
+    width="42px
   />
 </a>          
 <a href="https://www.typescriptlang.org/" target="\_blank"><img
