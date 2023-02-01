@@ -9,6 +9,7 @@
 <p>- 🔭 Want to learn many new things from other people <img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="40" height="40"> </img></p>
 <p>- 📫 You can contact me at: 0328649781 || n.h.quan126@gmail.com || <a href="https://www.facebook.com/profile.php?id=100041390780970">My facebook</a><img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="40" height="40"> </img></p>
 
+<hr/>
 
 ### Top languages:
 
@@ -57,6 +58,14 @@ target="\_blank"><img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
     align="left"
     alt="sass"
+    height="42px"
+  />
+</a>
+<a href="https://sass-lang.com/install" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC"
+    align="left"
+    alt=""
     height="42px"
   />
 </a>
