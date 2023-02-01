@@ -61,14 +61,24 @@ target="\_blank"><img
     height="42px"
   />
 </a>
-<a href="https://sass-lang.com/install" target="_blank">
+<a href="https://tailwindcss.com/" target="_blank">
   <img
     src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC"
     align="left"
-    alt=""
+    alt="tailwind"
     height="42px"
+    width="62px
   />
 </a>
+ <a href="https://firebase.google.com/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCGMawguITMm1NksYTNtYNNpYCugoZLgrdofZ6-DcqckG6wP4exDI8aAn7NEALw_wcB&gclsrc=aw.ds" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"
+    align="left"
+    alt="firebase"
+    height="42px"
+    width="62px
+  />
+</a>          
 <a href="https://www.typescriptlang.org/" target="\_blank"><img
     align="left"
     alt="Typescirpt"
