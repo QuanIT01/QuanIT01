@@ -52,6 +52,7 @@ target="\_blank"><img
     src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E"
 />
 </a>
+
 <a href="https://sass-lang.com/install" target="_blank">
   <img
     src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699"
@@ -60,6 +61,7 @@ target="\_blank"><img
     height="25px"
   />
 </a>
+
 <a href="https://tailwindcss.com/" target="_blank">
   <img
     src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC"
@@ -68,6 +70,7 @@ target="\_blank"><img
     height="25px"
   />
 </a>
+
  <a href="https://firebase.google.com/?gclid=Cj0KCQiA_P6dBhD1ARIsAAGI7HCGMawguITMm1NksYTNtYNNpYCugoZLgrdofZ6-DcqckG6wP4exDI8aAn7NEALw_wcB&gclsrc=aw.ds" target="_blank">
   <img
     src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28"
@@ -75,13 +78,15 @@ target="\_blank"><img
     alt="firebase"
     height="25px"
   />
-</a>          
+</a>
+
 <a href="https://www.typescriptlang.org/" target="\_blank"><img
     align="left"
     alt="Typescirpt"
     height="25px"
     src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6"
 /></a>
+
 <a href="https://reactjs.org/" target="_blank">
 <img
     align="left"
@@ -89,6 +94,7 @@ target="\_blank"><img
     height="25px"
     src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB"
 /></a>
+
 <a href="https://redux.js.org/" target="_blank">
 <img
     align="left"
@@ -96,6 +102,7 @@ target="\_blank"><img
     height="25px"
     src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC"
 /></a>
+
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
@@ -104,6 +111,7 @@ target="\_blank"><img
     src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200"
 />
 </a>
+
 <a href="https://nodejs.org" target="\_blank"
 > <img
     align="left"
@@ -112,6 +120,7 @@ target="\_blank"><img
     src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF"
 />
 </a>
+
 <a
 href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15"
 target="\_blank"> <img
@@ -121,6 +130,7 @@ alt="sql-server"
 height="42px"
 />
 </a>
+
 <a href="https://www.mongodb.com/" target="_blank">
 <img
     src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248"
@@ -129,6 +139,7 @@ height="42px"
     height="25px"
   />
 </a>
+
 <a href="https://www.docker.com/" target="_blank">
   <img
     src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/docker/docker.svg"
