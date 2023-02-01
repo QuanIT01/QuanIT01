@@ -61,6 +61,14 @@ target="\_blank"><img
     height="42px"
   />
 </a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img
+    src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    align="left"
+    alt="tailwindcss"
+    height="42px"
+  />
+</a>
 <a href="https://www.typescriptlang.org/" target="\_blank"><img
     align="left"
     alt="Typescirpt"
