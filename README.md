@@ -9,7 +9,7 @@
 - 🌱 I’m QuanIT01
 - 👀 I’m interested in writing code!
 - 🌱 I’m currently learning JavaScript, Node JS, ReactJS, TypeScript,....
-- 👯 I use tools : docker, git , postman,firebase
+- 👯 I'm currently learning tools: docker, git , postman,firebase
 
 ### Connect with me:
 
