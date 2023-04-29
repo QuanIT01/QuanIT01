@@ -2,7 +2,7 @@
 <br>
 ![](https://komarev.com/ghpvc/?username=QuanIT01&color=green)
 
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuanIT01&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true" width="250" height="250" />
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=790b761171d3e2ba1a4b71867a40db9ae2e8c9532ec14ad0&rid=giphy.gif&ct=g" width="250" height="250" />
 
 ### Welcome to my Github
 
@@ -19,4 +19,4 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuanIT01&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanIT01&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanIT01&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true)
