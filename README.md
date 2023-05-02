@@ -8,13 +8,13 @@
 
 - 🌱 I’m QuanIT01
 - 👀 I’m interested in writing code!
-- 🌱 I’m currently learning JavaScript, Node JS, ReactJS, TypeScript,....
-- 👯 I'm currently learning tools: docker, git, postman, firebase
+- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, TypeScript, NextJS....
+- 👯 I'm currently learning tools: docker, git, postman, firebase .
 
 ### Connect with me:
 
 - My Facebook: <a href="https://www.facebook.com/profile.php?id=100041390780970" target="blank">Nguyễn Hồng Quân</a>
-- My Gmail:n.h.quan126@gmail.com
+- My Gmail: n.h.quan126@gmail.com
 - Phone: 0328649781
 
 <br>
