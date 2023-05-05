@@ -14,8 +14,8 @@
 ### Connect with me:
 
 - My Facebook: <a href="https://www.facebook.com/profile.php?id=100041390780970" target="blank">Nguyễn Hồng Quân</a>
-- My Gmail: n.h.quan126@gmail.com
-- Phone: 0328649781
+- My Gmail: n.h.quan2305@gmail.com
+
 
 <br>
 
