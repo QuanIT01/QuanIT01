@@ -8,8 +8,8 @@
 
 - 🌱 I’m QuanIT01
 - 👀 I’m interested in writing code!
-- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, TypeScript, NextJS....
-- 👯 I'm currently learning tools: docker, git, postman, firebase .
+- 🌱 I’m currently learning JavaScript, ReactJS, NextJS....
+- 👯 I'm currently learning tools: git, postman, firebase , dbPorge.
 
 ### Connect with me:
 
