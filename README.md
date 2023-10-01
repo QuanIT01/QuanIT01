@@ -25,3 +25,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanIT01&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true)
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+  ![Snake animation      ](https://github.com/QuanIT01/QuanITIT01/blob/output/github-contribution-grid-snake.svg)
