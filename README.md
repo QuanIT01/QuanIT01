@@ -28,4 +28,4 @@
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-  ![Snake animation      ](https://github.com/QuanIT01/QuanITIT01/blob/output/github-contribution-grid-snake.svg)
+ ![snake animation](https://github.com/QuanIT01/QuanIT01/blob/output/github-contribution-grid-snake2.svg)
