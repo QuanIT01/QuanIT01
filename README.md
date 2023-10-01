@@ -20,12 +20,8 @@
 - My Facebook: <a href="https://www.facebook.com/profile.php?id=100041390780970" target="blank">Nguyễn Hồng Quân</a>
 - My Gmail: n.h.quan126@gmail.com
 
-
 <br>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuanIT01&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true)
 
-### Watch my contribution graph get eaten by the snake 🐍
 
- ![snake animation](https://github.com/QuanIT01/QuanIT01/blob/output/github-contribution-grid-snake2.svg)
