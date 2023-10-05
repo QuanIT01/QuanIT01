@@ -10,9 +10,9 @@
   
 - 👀 I’m interested in writing code!
   
-- 🌱 I’m currently learning JavaScript, ReactJS, NextJS , C#....
+- 🌱 I’m currently learning JavaScript, ReactJS, TypeScript, NextJS , C#....
 
-- 👯 I'm currently learning tools: git, postman, firebase , dbPorge.
+- 👯 I'm currently learning tools: git, postman, firebase , dbPorge ,...
   
 
 ### Connect with me:
